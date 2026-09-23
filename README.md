@@ -3,7 +3,7 @@ A Standardized Engine for doing Latent Alignment Profiling via Mechanistic Trans
 
 # THE MECHANISTIC RORSCHACH SUITE (MRS)
 ## Standardized Engine for Latent Alignment Profiling via Mechanistic Transduction
-**Specification Reference:** MRS-SPEC-v3.0.0-PROD  
+**Specification Reference:** MRS-SPEC-v3.1.0-PROD  
 **Target Systems:** Autoregressive Decoder-Only Transformers ($N$-Layer, Multi-Head / Grouped-Query Attention, RoPE, SwiGLU / MLP)  
 **Theoretical Synthesis:** Cross-Linguistic Psychometrics (Sha et al., arXiv:2609.22934) [1](https://arxiv.org/abs/2609.22934) $\otimes$ Global Workspace / Dynamic Jacobian Interpretability ([GWT-J, v4.2](https://github.com/thatoldfarm/GWT-J))
 
