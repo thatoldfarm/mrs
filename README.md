@@ -2348,6 +2348,7 @@ if __name__ == "__main__":
 ---
 
 ## PART 4: EMPIRICAL BENCHMARK MANIFOLD & COMPARATIVE AUDIT
+**Projected targets, not measurements.**
 
 By grounding the evaluation in the empirical data of Sha et al. (arXiv:2609.22934) [1], MRS provides direct baseline calibration against real-world frontier models.
 
